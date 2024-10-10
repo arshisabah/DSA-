@@ -17,6 +17,7 @@ public class Main {
         System.out.println(LCM);
     }
 }
+//OPTIMIZED VERSION
 /*
 Using GCD Helper Method
 import java.util.Scanner;
