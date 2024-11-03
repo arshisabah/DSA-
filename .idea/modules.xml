@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARMSTRONG NUMBER/ARMSTRONG NUMBER.iml" filepath="$PROJECT_DIR$/ARMSTRONG NUMBER/ARMSTRONG NUMBER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARMSTRONG NUMBER BETWEEN 1 TO N/ARMSTRONG NUMBER BETWEEN 1 TO N.iml" filepath="$PROJECT_DIR$/ARMSTRONG NUMBER BETWEEN 1 TO N/ARMSTRONG NUMBER BETWEEN 1 TO N.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAY/ARRAY.iml" filepath="$PROJECT_DIR$/ARRAY/ARRAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIAMOND PATTERN/DIAMOND PATTERN.iml" filepath="$PROJECT_DIR$/DIAMOND PATTERN/DIAMOND PATTERN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EMPTY FOR LOOP 1-N/EMPTY FOR LOOP 1-N.iml" filepath="$PROJECT_DIR$/EMPTY FOR LOOP 1-N/EMPTY FOR LOOP 1-N.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIBONACCI SERIES/FIBONACCI SERIES.iml" filepath="$PROJECT_DIR$/FIBONACCI SERIES/FIBONACCI SERIES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIRST AND LAST DIGIT/FIRST AND LAST DIGIT.iml" filepath="$PROJECT_DIR$/FIRST AND LAST DIGIT/FIRST AND LAST DIGIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HCF OF TWO NUMBERS/HCF OF TWO NUMBERS.iml" filepath="$PROJECT_DIR$/HCF OF TWO NUMBERS/HCF OF TWO NUMBERS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCM OF TWO NUMBERS/LCM OF TWO NUMBERS.iml" filepath="$PROJECT_DIR$/LCM OF TWO NUMBERS/LCM OF TWO NUMBERS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NUMBER PATTERN 1/NUMBER PATTERN 1.iml" filepath="$PROJECT_DIR$/NUMBER PATTERN 1/NUMBER PATTERN 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NUMBER PATTERN 2/NUMBER PATTERN 2.iml" filepath="$PROJECT_DIR$/NUMBER PATTERN 2/NUMBER PATTERN 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NUMBER PATTERN 3/NUMBER PATTERN 3.iml" filepath="$PROJECT_DIR$/NUMBER PATTERN 3/NUMBER PATTERN 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NUMBER PATTERN 4/NUMBER PATTERN 4.iml" filepath="$PROJECT_DIR$/NUMBER PATTERN 4/NUMBER PATTERN 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIME FACTOR OF A NUMBER/PRIME FACTOR OF A NUMBER.iml" filepath="$PROJECT_DIR$/PRIME FACTOR OF A NUMBER/PRIME FACTOR OF A NUMBER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIME NUMBER/PRIME NUMBER.iml" filepath="$PROJECT_DIR$/PRIME NUMBER/PRIME NUMBER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STAR PATTERN-RHOMBUS/STAR PATTERN-RHOMBUS.iml" filepath="$PROJECT_DIR$/STAR PATTERN-RHOMBUS/STAR PATTERN-RHOMBUS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STAR PATTERN-TRIANGLE/STAR PATTERN-TRIANGLE.iml" filepath="$PROJECT_DIR$/STAR PATTERN-TRIANGLE/STAR PATTERN-TRIANGLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STAR PROBLEM-HALF SQUARE/STAR PROBLEM-HALF SQUARE.iml" filepath="$PROJECT_DIR$/STAR PROBLEM-HALF SQUARE/STAR PROBLEM-HALF SQUARE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalci/SimpleCalci.iml" filepath="$PROJECT_DIR$/SimpleCalci/SimpleCalci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X PATTERN/X PATTERN.iml" filepath="$PROJECT_DIR$/X PATTERN/X PATTERN.iml" />
+    </modules>
+  </component>
+</project>
